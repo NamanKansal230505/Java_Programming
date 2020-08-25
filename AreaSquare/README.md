@@ -1,3 +1,5 @@
 # Java_Programming
-# This Repository is related to java programming ,where there will be all codes related to java from Hello World  to advanced.
-![Capture](https://user-images.githubusercontent.com/64547645/91187514-e32a1b00-e70d-11ea-8c69-6c6943f61fd6.PNG)
+This Program is about founding the area of square.
+
+It takes the Input from the user i.e. the side of square as shown in the image.
+![input](https://user-images.githubusercontent.com/64547645/91188660-2d5fcc00-e70f-11ea-87f1-872aee351d64.PNG)
