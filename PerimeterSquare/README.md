@@ -7,6 +7,6 @@ It takes the Input from the user i.e. the side of square as shown in the image.
 
 User Enters the data and gets the desired result.
 
-![Capture](https://user-images.githubusercontent.com/64547645/91189409-0bb31480-e710-11ea-8d44-a3d54ee4b5ac.PNG)
+![Capture](https://user-images.githubusercontent.com/64547645/91460401-6336b900-e8a5-11ea-97ae-0538654f3a3b.PNG)
 
 
