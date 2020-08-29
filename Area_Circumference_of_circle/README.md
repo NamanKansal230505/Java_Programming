@@ -5,5 +5,5 @@ This program is all about calculating the AREA or CIRCUMFERENCE of the CIRCLE. T
 Then the user in the both cases has to input the RADIUS of the circle.
 ![Capture](https://user-images.githubusercontent.com/64547645/91637085-4e802f80-ea23-11ea-84b1-fe6f41fee037.PNG)
 
-The user gets the desired result.
+The user gets the desired result whether he has selected 1 or 2.
 ![Capture](https://user-images.githubusercontent.com/64547645/91637100-766f9300-ea23-11ea-9655-cfb3c085e396.PNG)
